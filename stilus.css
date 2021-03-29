@@ -1,0 +1,27 @@
+main{
+    max-width: 800px;
+    margin: auto;
+}
+article{
+    margin: auto;
+    background: lightskyblue;
+    text-align: center;
+    width: 500px;
+    padding: 5px;
+    
+}
+form {
+    padding: 5px;
+}
+footer, header {
+    text-align: center;
+}
+#add{
+    border:2px solid black;
+}
+input{
+    margin: 0;
+}
+li{
+    list-style: none;
+}
